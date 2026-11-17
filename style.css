@@ -1,0 +1,4 @@
+body { font: 16px/1.6 system-ui, -apple-system, sans-serif; max-width: 720px; margin: 40px auto; padding: 0 16px; color: #1b1b1b; background: #fff; }
+h1 { font-size: 26px; } h2 { font-size: 18px; margin-top: 28px; }
+a { color: #0a58ca; } footer { margin-top: 40px; font-size: 13px; color: #666; }
+@media (prefers-color-scheme: dark) { body { background: #111; color: #eee; } a { color: #7ab3ff; } footer { color: #999; } }
